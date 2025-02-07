@@ -155,6 +155,7 @@ img {
 
     .why-us .col-left {
         width: 100%;
+        margin-bottom: 70px;
     }
 
 
@@ -162,4 +163,36 @@ img {
         width: 100%;
 
     }
+    
+    main{
+        background-color: #222222;
+
+    }
+    .site-header{
+        background-color:  #232946;
+        padding-top: 3rem;
+    }
+    .lessons{
+        background-color: #232946;
+        padding-bottom: 3rem;
+    }
+
+    .steps {
+        margin: 0px;
+        padding: 3rem 0;
+       
+    }
+    .why-us {
+        padding-top: 3rem;
+        padding-bottom: 3rem;
+        margin-bottom: 0px;
+    }
+       /*
+        padding: 6rem 0;
+        color: #232946;
+        background: #eebbc3;
+*/
+       
+    
+
 }
